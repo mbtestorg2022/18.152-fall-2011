@@ -4,23 +4,237 @@ title: Lecture Notes
 uid: 24b76a0d-695c-c1d7-bc81-9bb2950a852c
 ---
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| L1 | Introduction to PDEs | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_01)) |
-| L2 | Introduction to the heat equation | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_02)) |
-| L3 | The heat equation: Uniqueness | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_03)) |
-| L4 | The heat equation: Weak maximum principle and introduction to the fundamental solution | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_04)) |
-| L5 | The heat equation: Fundamental solution and the global Cauchy problem | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_05)) |
-| L6 | Laplace's and Poisson's equations | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_06)) |
-| L7 | Poisson's equation: Fundamental solution | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_07)) |
-| L8 | Poisson's equation: Green functions | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_08)) |
-| L9 | Poisson's equation: Poisson's formula, Harnack's inequality, and Liouville's theorem | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_09)) |
-| L10 | Introduction to the wave equation | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_10)) |
-| L11 | The wave equation: The method of spherical means | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_11)) |
-| L12 | The wave equation: Kirchhoff's formula and Minkowskian geometry | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_12)) |
-| L13–L14 | The wave equation: Geometric energy estimates | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_13_14)) |
-| L15 | Classification of second order equations | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_15)) |
-| L16–L18 | Introduction to the Fourier transform; Fourier inversion and Plancherel's theorem | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_16_18)) |
-| L19–L20 | Introduction to Schrödinger's equation | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_19_20)) |
-| L21-L23 | Introduction to Lagrangian field theories | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_21_23)) |
-| L24 | Transport equations and Burger's equation | ([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_24))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to PDEs
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the heat equation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+The heat equation: Uniqueness
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+The heat equation: Weak maximum principle and introduction to the fundamental solution
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+The heat equation: Fundamental solution and the global Cauchy problem
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Laplace's and Poisson's equations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Poisson's equation: Fundamental solution
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Poisson's equation: Green functions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Poisson's equation: Poisson's formula, Harnack's inequality, and Liouville's theorem
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the wave equation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+The wave equation: The method of spherical means
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+The wave equation: Kirchhoff's formula and Minkowskian geometry
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13–L14
+{{< tdclose >}}
+{{< tdopen >}}
+The wave equation: Geometric energy estimates
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_13_14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Classification of second order equations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16–L18
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Fourier transform; Fourier inversion and Plancherel's theorem
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_16_18))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19–L20
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Schrödinger's equation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_19_20))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21-L23
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Lagrangian field theories
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_21_23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Transport equations and Burger's equation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_152f11_lec_24))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

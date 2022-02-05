@@ -58,8 +58,45 @@ Grading
 
 The breakdown of your final grade is as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 30 % |
-| Midterm Exam | 30 % |
-| Final Exam | 40 %
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30 %
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30 %
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40 %
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
